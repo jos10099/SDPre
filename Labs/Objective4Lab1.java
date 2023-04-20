@@ -20,7 +20,7 @@ public class Objective4Lab1 {
 		System.out.println("What is your favorite song?");
 		String favoriteSong = keyboard.next();
 
-		System.out.println("My name is " + lname + fname + ".");
+		System.out.println("My name is " + lname + "  " + fname + ".");
 		System.out.println("My favorite animal is a " + favoriteAnimal + ".");
 		System.out.println("My favorite food is " + favoriteFood + ".");
 		System.out.println("My favorite song is " + favoriteSong + ".");
