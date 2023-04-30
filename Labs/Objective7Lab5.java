@@ -31,5 +31,7 @@ public class Objective7Lab5 {
 			
 
 		}
+		
+		scanner.close();
 	}
 }
